@@ -5,4 +5,4 @@
 
 
 ---
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zmzhoi&layout=compact&theme=dracula" style="flex: 1;" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zmzhoi&layout=compact&theme=dracula" style="flex: 1;" />
