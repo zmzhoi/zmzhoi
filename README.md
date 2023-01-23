@@ -1,4 +1,4 @@
-## ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=339af0&text=JongMyeongChoi&height=200&fontSize=60&desc=zmzhoi&descAlignY=70&descAlign=75)
+## ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=339af0&text=JongMyeongChoi&height=200&fontSize=60)
 
 <div align="left">
     <img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zmzhoi&layout=compact&theme=dracula" />
